@@ -1,6 +1,6 @@
-#EunAh's memo: CFD를 DL으로 해보려고 공부중인 repository임
-##당장 올해에는 볼 시간이 없음
-###내년에 공부할 예정임
+# EunAh's memo: CFD를 DL으로 해보려고 공부중인 repository임
+## 당장 올해에는 볼 시간이 없음
+### 내년에 공부할 예정임
 
 # DeepCFD
 
